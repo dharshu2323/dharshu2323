@@ -132,5 +132,5 @@ I'm a passionate AI & Data Science engineer who enjoys building intelligent syst
 ---
 
 <div align="center">
-✨ *“Empowering data with intelligence, and intelligence with empathy.”*
+“Empowering data with intelligence, and intelligence with empathy.”
 </div>
